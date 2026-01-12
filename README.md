@@ -1,1 +1,1 @@
-# Linux-Japanese-Guide
+# Linux 日本語ガイド
